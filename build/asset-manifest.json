@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/tv-advisor/static/css/main.5bd0b07c.css",
+    "main.js": "/tv-advisor/static/js/main.ca818f5d.js",
+    "index.html": "/tv-advisor/index.html",
+    "main.5bd0b07c.css.map": "/tv-advisor/static/css/main.5bd0b07c.css.map",
+    "main.ca818f5d.js.map": "/tv-advisor/static/js/main.ca818f5d.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.5bd0b07c.css",
+    "static/js/main.ca818f5d.js"
+  ]
+}
